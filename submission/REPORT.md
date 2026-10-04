@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Phạm Long Nhật / 2A202602844
 **Repo:** https://github.com/Nhatcony0902/K4-Track02-Day17-PhamLongNhat-2A202602844-DataPipelineEngineering
-**Commit bài nộp:** `<hash commit cuối>`
+**Commit bài nộp:** `82f8978` (ba bản sửa trong `pipeline/`); REPORT và `checksums.txt` ở commit `30f9c6c` và commit ngay sau trên `main`
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Claude Code (Claude Opus 5.5) — đọc đề và code, chạy lệnh kiểm tra, đề xuất 3 chỗ sửa trong `pipeline/` và soạn nháp REPORT; tôi đã review từng dòng sửa và chạy lại toàn bộ kiểm tra.
 **Nguồn tham khảo khác (nếu có):** slide Ngày 17; tài liệu Debezium (định dạng change event Postgres).
 
